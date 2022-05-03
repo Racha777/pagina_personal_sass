@@ -20,7 +20,7 @@
 }
 
 .contact {
-  padding: var(--padding-container);
+  padding: 2em;
   background-color: var(--secondary-theme-color);
 }
 .contact__container {
